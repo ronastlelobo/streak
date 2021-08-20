@@ -15,7 +15,7 @@
  - [react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient)
  ## Developer Insights
  - Try to avoid using image assets for UI such as Card and Game Tile and build using code.
- - Break important functionality into smaller components such.
+ - Break important functionality into smaller components.
  - Use of Formik to efficiently handle forms.
  - Use of PixelRatio for responsiveness.
 
